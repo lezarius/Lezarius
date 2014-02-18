@@ -1,4 +1,4 @@
 Lezarius
 ========
 
-Lezarius website
+Lezarius personal website
