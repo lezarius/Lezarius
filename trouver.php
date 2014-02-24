@@ -11,7 +11,7 @@
 	<?php include 'menu.php'; ?>
 <div class="container">
 
-<h1>Voici les différent moyen de me trouver:</h1>
+<h1>Voici les différents moyens de me trouver :</h1>
 
 <div class="row">
 	<p><a href="http://www.twitter.com/lezarius" class="zocial twitter">@Lezarius</a>
