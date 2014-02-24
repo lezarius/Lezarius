@@ -5,8 +5,8 @@
               <div class="alert alert-dismissable alert-warning">
                 <button type="button" class="close" data-dismiss="alert">&times;</button>
                 <h4>Attention !</h4>
-                <p>La page que vous regarder est en production, revenais plus tard elle sera surement finie !
-                 <a href="#" class="alert-link">Vous pouvez retourne as l'accueille pour continuer as consulté le site !</a></p>
+                <p>La page que vous regardez est en production, revenez plus tard, elle sera sûrement finie !
+                 <a href="#" class="alert-link">Vous pouvez retourner à l'accueil pour continuer à consulter le site !</a></p>
               </div>
             </div>
           </div>
