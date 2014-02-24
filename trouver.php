@@ -14,7 +14,7 @@
 <h1>Voici les différent moyen de me trouver:</h1>
 
 <div class="row">
-	<p><a href="http://www.twitter.com/remy_mazabraud" class="zocial twitter">@remy_mazabraud</a>
+	<p><a href="http://www.twitter.com/lezarius" class="zocial twitter">@Lezarius</a>
 	<a href="https://bitbucket.org/remy_mazabraud" class="zocial bitbucket">Follow on Bitbucket</a>
 	<a href="https://github.com/lezarius" class="zocial github">Follow on Git</a>
 	<a href="http://steamcommunity.com/profiles/76561198081804720/" class="zocial steam">Follow on Steam</a>

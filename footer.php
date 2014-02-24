@@ -1,5 +1,4 @@
 <footer>
-        <div class="row">
           <div class="container">
 
             <ul class="breadcrumb">
@@ -11,6 +10,5 @@
             </ul>
             <p>Crée par<a href="http://lezarius.eu">Lezarius</a>. Pour le contact allez <a href="page/contact.php">ici</a>.</p>
           </div>
-        </div>
 
       </footer>

@@ -7,11 +7,18 @@
 	<link rel="stylesheet" type="text/css" href="BootStrap/css/footer.css">
 </head>
 <body>
-
 	<?php include 'menu.php'; ?>
+
+
+<div class="wrap">
+<div class="container">
 	<?php include 'wip.php'; ?>
 
-	<?php include 'footer.php'; ?>
+</div>
+</div>
+
+
+<?php include 'footer.php'; ?>
 
 </body>
 </html>

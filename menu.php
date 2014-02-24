@@ -1,6 +1,13 @@
-		
- <nav class="navbar navbar-default navbar-static-top" role="navigation">
-      <div class="container">
+ <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="BootStrap/js/bootstrap.min.js"></script>
+
+
+
+    
+ <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container-fluid">
         <div class="navbar-header">
           <a href="index.php" class="navbar-brand">Lezarius</a>
           <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
