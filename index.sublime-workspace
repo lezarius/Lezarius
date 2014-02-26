@@ -1,0 +1,356 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"n",
+				"nom_du_visiteur"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 418,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"file_history":
+	[
+		"/opt/lampp/htdocs/dev/git/Lezarius/index.sublime-project",
+		"/opt/lampp/htdocs/dev/git/CV/index.php",
+		"/home/remy/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/remy/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/remy/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
+		"/home/remy/.config/sublime-text-3/Packages/User/Git.sublime-settings",
+		"/opt/lampp/htdocs/dev/git/CV/404.php",
+		"/opt/lampp/htdocs/dev/git/Bonjour .txt",
+		"/opt/lampp/htdocs/dev/git/CV/footer.php",
+		"/opt/lampp/htdocs/dev/git/CV/menu.php",
+		"/opt/lampp/htdocs/dev/own/media.php",
+		"/opt/lampp/htdocs/dev/KLM/accueil.html",
+		"/opt/lampp/htdocs/dev/git/CV/BootStrap/css/bootstrap.css",
+		"/opt/lampp/htdocs/dev/KLM/style.css",
+		"/home/remy/Documents/lezarius",
+		"/opt/lampp/htdocs/dev/own/contact.php",
+		"/opt/lampp/htdocs/dev/git/CV/strapped.html",
+		"/opt/lampp/htdocs/dev/git/Lezarius/trouver.php",
+		"/opt/lampp/htdocs/dev/git/CV/BootStrap/css/bootstrap.min.css",
+		"/opt/lampp/htdocs/dev/git/Lezarius/wip.php",
+		"/opt/lampp/htdocs/dev/git/Lezarius/project.php",
+		"/opt/lampp/htdocs/dev/git/Lezarius/footer.php",
+		"/opt/lampp/htdocs/dev/git/Lezarius/menu.php",
+		"/opt/lampp/htdocs/dev/git/Lezarius/BootStrap/css/bootstrap.css",
+		"/opt/lampp/htdocs/dev/git/Lezarius/index.php",
+		"/opt/lampp/htdocs/dev/git/Lezarius/404.php",
+		"/opt/lampp/htdocs/dev/git/Lezarius/page/trouver.php",
+		"/opt/lampp/htdocs/dev/git/Lezarius/page/project.php",
+		"/opt/lampp/htdocs/dev/git/Lezarius/page/404.php",
+		"/opt/lampp/htdocs/dev/git/Lezarius/page/wip.php",
+		"/opt/lampp/htdocs/dev/git/Lezarius/page/menu.php",
+		"/opt/lampp/htdocs/dev/git/Lezarius/page/footer.php",
+		"/opt/lampp/htdocs/dev/git/Lezarius/BootStrap/css/footer.css",
+		"/opt/lampp/htdocs/dev/git/Lezarius/test.php",
+		"/opt/lampp/htdocs/dev/git/Lezarius/BootStrap/css/bootstrap.min.css",
+		"/opt/lampp/htdocs/dev/git/Lezarius/README.md",
+		"/home/remy/Téléchargements/Sherlock.S03E03.His.Last.Vow.1080p.WEB-DL.VOSTFR-BS/Sherlock.S03E03.His.Last.Vow.1080p.WEB-DL.DD5.1.H.264-BS.nfo",
+		"/home/remy/Documents/test/blog",
+		"/home/remy/Documents/test/lezarius",
+		"/home/remy/Documents/test/remy-mazabraud",
+		"/home/remy/Documents/test/bag",
+		"/home/remy/Documents/test/the",
+		"/home/remy/Documents/test/default-ssl",
+		"/home/remy/Documents/test/default",
+		"/home/remy/Securisation_DEBIAN.txt",
+		"/home/remy/Documents/bag",
+		"/home/remy/Documents/remy-mazabraud",
+		"/opt/lampp/htdocs/dev/own/index.php",
+		"/home/remy/Documents/blog",
+		"/home/remy/Documents/Bootstrap3 Theme pluxlm/css/Bootstrap3.css",
+		"/home/remy/Documents/Bootstrap3 Theme pluxlm/css/bootstrap.css",
+		"/home/remy/Documents/Bootstrap3 Theme pluxlm/footer.php",
+		"/opt/lampp/htdocs/dev/afficherdutext.php",
+		"/opt/lampp/htdocs/dev/git/Dreamvids/DreamVids/index.php",
+		"/opt/lampp/htdocs/dev/git/Dreamvids/DreamVids/includes/bdd.classe.php",
+		"/opt/lampp/htdocs/dev/git/Dreamvids/DreamVids/database.sql",
+		"/home/remy/Documents/index.php",
+		"/opt/lampp/htdocs/dev/git/Dreamvids/DreamVids/includes/functions.php",
+		"/opt/lampp/htdocs/dev/git/Dreamvids/DreamVids/includes/bdd.class.php",
+		"/usr/share/applications/geary.desktop",
+		"/opt/lampp/htdocs/dev/menu.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"000",
+			"333",
+			"background"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

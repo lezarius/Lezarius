@@ -21,11 +21,12 @@
             <li>
               <a href="trouver.php">Me trouver?</a>
             </li>
-            <li>
-              <a href="http://blog.lezarius.eu">Le Blog</a>
-            </li>
+            
              <li>
               <a href="project.php">Mes projets</a>
+            </li>
+            <li>
+              <a href="http://blog.lezarius.eu">Le Blog</a>
             </li>
           </ul>
 

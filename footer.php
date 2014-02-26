@@ -1,5 +1,5 @@
 <footer>
-          <div class="container">
+          <div class="container-fluid">
 
             <ul class="breadcrumb">
               <li class="pull-right"><a href="#top">Back to top</a></li>
