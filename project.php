@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Perdu?</title>
+	<title>Awesome project</title>
 	<link rel="stylesheet" type="text/css" href="BootStrap/css/bootstrap.css"> 
 	<link rel="stylesheet" type="text/css" href="BootStrap/css/footer.css">
 </head>
@@ -48,7 +48,16 @@
 				<article>DreamVids est une platoforme open source de partage de vidéo !</article>
 
 			</div>
+  			
+
+			<div class="col-md-4">
+				<h1>MLP Fictions</h1>
+				<a href="http://www.mlpfictions.com/" target="New"><img src="Image/Miniature/MLPF.png" alt="" width="340" height="240"></a>
+				<article>MLP Fictions est le 1er site francophone dédié à la lecture de fictions autours de l'univers de My Little Pony!</article>
+
+			</div>
   			</div>	
+
 		</div>
 	</div>
 	<?php include 'footer.php'; ?>
