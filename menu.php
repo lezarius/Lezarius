@@ -9,7 +9,7 @@
  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
       <div class="container-fluid">
         <div class="navbar-header">
-          <a href="index.php" class="navbar-brand">Lezarius</a>
+          <a href="http://lezarius.eu" class="navbar-brand">Lezarius</a>
           <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -19,13 +19,13 @@
         <div class="navbar-collapse collapse" id="navbar-main">
           <ul class="nav navbar-nav">
             <li>
-              <a href="trouver.php">Me trouver?</a>
+              <a href="trouver">Me trouver?</a>
             </li>
             
              <li>
-              <a href="project.php">Mes projets</a>
+              <a href="project">Mes projets</a>
             </li>
-            <li><a href="friend.php">Mes amis</a></li>
+            <li><a href="friend">Mes amis</a></li>
             <li>
               <a href="http://blog.lezarius.eu">Le Blog</a>
             </li>
