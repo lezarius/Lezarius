@@ -17,7 +17,7 @@
 <div class="col-xs-6 col-md-4">
 <h3>Lezarius <small>le lezare avec 42 personalité.</small></h3>
 <article>Un jour on ma dit "Trouve toi un pseudo !" J'ai mis trente seconde as le trouver. Mais je vais mettre 20 ligne as vous expliquer pourquoi du comment de 42.
-</br> </br>
+<br> <br>
 Tout d'abord j'ai demandé à mes amis. Une d'entre elle (<a href="https://twitter.com/snitchyx">@Snitchyx</a>) ma répondue réponse, plutôt spammé dira thon. Une de ses réponse retenue mon attention. C'était Lezarius.
 <br> C'est un habile mélange de ma timidité et de mon amour pour le steam punk. <br>
 Mais cette entité représente désormais le scientifique que je suis que se soit dans mes experimentasie dans la vie ou de mes divers projet web (Qui as dit que je faisais que des truc random ? xD)
