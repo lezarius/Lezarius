@@ -19,7 +19,7 @@
         <div class="navbar-collapse collapse" id="navbar-main">
           <ul class="nav navbar-nav">
             <li>
-              <a href="trouver.php">Me trouver?</a>
+              <a href="trouver.php">Social</a>
             </li>
             
              <li>
