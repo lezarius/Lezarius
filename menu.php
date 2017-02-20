@@ -9,6 +9,7 @@
  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
       <div class="container-fluid">
         <div class="navbar-header">
+          <a href="http://lezarius.science" class="navbar-brand"><img src="logo100.png" height="50" width="50"></a>
           <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
