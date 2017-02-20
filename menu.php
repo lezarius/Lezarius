@@ -9,8 +9,7 @@
  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
       <div class="container-fluid">
         <div class="navbar-header">
-          <a href="http://lezarius.science" class="navbar-brand"></a>
-          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main"> <img src="Image/logo100.png">
+          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -25,7 +24,7 @@
              <li>
               <a href="project.php">Mes projets</a>
             </li>
-            <li><a href="friend.php">Coups de coeur</a></li>
+	  <!--  <li><a href="friend.php">Coups de coeur</a></li> -->
             <li>
               <a href="http://blog.lezarius.science">Le Blog</a>
             </li>
