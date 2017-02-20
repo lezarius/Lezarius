@@ -9,7 +9,7 @@
  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
       <div class="container-fluid">
         <div class="navbar-header">
-          <a href="http://lezarius.eu" class="navbar-brand">Lezarius</a>
+          <a href="http://lezarius.science" class="navbar-brand"><img src="Image/logo.png"></img></a>
           <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -25,15 +25,13 @@
              <li>
               <a href="project">Mes projets</a>
             </li>
-            <li><a href="friend">Mes amis</a></li>
+            <li><a href="friend">Coups de coeur</a></li>
             <li>
-              <a href="http://blog.lezarius.eu">Le Blog</a>
+              <a href="http://blog.lezarius.science">Le Blog</a>
             </li>
           </ul>
 
-          <ul class="nav navbar-nav navbar-right">
-            <li><a href="http://serv.lezarius.eu">Accès serveur</a></li>
-          </ul>
+          
 
         </div>
       </div>
